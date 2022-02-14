@@ -56,7 +56,7 @@ public class DrawingService {
             f.setDescription(drawing.getDescription());
             f.setImageUrl(drawing.getImageUrl());
             f.setClient(drawing.getClient());
-            return this.drawingRepository.save(drawing);
+            return this.drawingRepository.save(f);
         });
     }
 
