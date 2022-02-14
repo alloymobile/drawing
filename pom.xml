@@ -134,7 +134,7 @@
                     <schemaVersion>v2</schemaVersion>
                     <subscriptionId>${azure.subscriptionId}</subscriptionId>
                     <resourceGroup>alloymobile-rg</resourceGroup>
-                    <appName>alloymobile-product-app</appName>
+                    <appName>alloymobile-drawing-app</appName>
                     <pricingTier>B1</pricingTier>
                     <region>canadaeast</region>
                     <appServicePlanName>alloymobile-app-service-plan</appServicePlanName>
